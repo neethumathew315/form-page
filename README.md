@@ -6,7 +6,7 @@ This project demonstrates form structure, styling, and basic JavaScript function
 ---
 
 ## 🚀 Live Demo
-[View on GitHub Pages](https://yourusername.github.io/simple-form-project/)
+[View on GitHub Pages](https://neethumathew315.github.io/simple-form-project/)
 
 ---
 
