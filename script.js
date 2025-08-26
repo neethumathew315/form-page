@@ -12,3 +12,20 @@ forms.addEventListener("submit", function(e) {
     }
 });
 
+
+//Real-Time Input Validation
+
+//Check if the name is at least 3 characters.
+
+//Validate email format.
+
+//Ensure password length is strong.
+
+forms.name.addEventListener("input", () => {
+    if (forms.name.value.length < 3) {
+        forms.name.style.border = "2px solid red";
+    } else {
+        forms.name.style.border = "2px solid green";
+    }
+});
+
